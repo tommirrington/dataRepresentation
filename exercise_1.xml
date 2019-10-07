@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<library> 
+    <technical_books> 
+            <book>
+                <title>Python for Data Analysis</title> 
+                <isbn>1491957662</isbn> 
+                <author>Wes Mckinney</author> 
+            </book>
+            <book>
+                <title>An Introduction to Statistical Learning: with Applications in R</title> 
+                <isbn>1461471370</isbn> 
+                <author>Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani</author> 
+            </book>
+    </technical_books> 
+    <cookery_books> 
+            <book>
+                <title>Simple</title> 
+                <isbn>9781785031168</isbn> 
+                <author>Yotam Ottolenghi</author> 
+            </book>
+            <book>
+                <title>Jamie Cooks Italy</title> 
+                <isbn>0718187733</isbn> 
+                <author>Jamie Oliver</author> 
+            </book>
+    </cookery_books> 
+</library> 
