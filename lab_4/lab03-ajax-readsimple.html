@@ -25,8 +25,8 @@ read a simple json
             "dataType": "JSON",
             "success":function(result){
                 var rate = result.bpi.USD.rate;
-//                console.log(rate);
-                document.getElementById("output").innerText= rate;
+             //console.log(result);
+            document.getElementById("output").innerText= rate;
             },
             "error":function(xhr,status,error){
             console.log("error: "+status+" msg:"+error);
@@ -35,3 +35,4 @@ read a simple json
         }
     </script>
 </html>
+
